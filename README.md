@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a student in the field of IT and management. My passion is programming and cyber security. Areas of great interest to me are graphics programming and cryptographic algorithms. My goal is for the programs I write to be crystal clear and logically structured so that they can be helpful to anyone who comes across them. I try to make everything that was not clear to me at the beginning as clear as possible with additional clarifications and various materials (links to YouTube videos, official documentation, etc.)
+I am a student in the field of IT and management and i love graphics programing and cybersecurity. My goal is to create programs that are crystal clear and logically structured so that they can be helpful to anyone who comes across them.
+
+I try to make everything that was not clear to me at first as straightforward as possible by including additional clarifications and various materials (links to YouTube videos, official documentation, etc.). I aim to fully grasp what the code does and omit any irrelevant details, allowing the core functionality to stand out.
 
 
 # 💻 Tech Stack:
