@@ -4,9 +4,9 @@ I am an IT and Management student with a passion for graphics programming and cy
 I believe great code should be:
 - ✔ Clear – Easy to understand, with thoughtful comments and documentation
 - ✔ Modular – Properly abstracted for scalability and reuse
-- ✔ User-Friendly – Supported by explanations, examples, and curated learning resources
+- ✔ User-Friendly – Supported by explanations, examples, and other learning resources
 
-When I encounter complex topics, I break them down into intuitive explanations supplemented with various materials including youtube video links, documentation and learning websites. My focus is on core functionality without unnecessary clutter, ensuring maintainability and efficiency.
+When I encounter complex topics, I break them down into intuitive explanations supplemented with various materials like youtube video links, documentation and learning websites. My focus is on core functionality without unnecessary clutter, ensuring maintainability and efficiency.
 
 Every project I build prioritizes:
 
