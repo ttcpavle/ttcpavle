@@ -1,10 +1,10 @@
 # About Me:
-I am an IT and Management student with a passion for graphics programming and cybersecurity. My mission is to develop **clean, well-structured** software that is accessible and valuable to others.
+I am an IT and Management student with a passion for various fields such as data science, AI, algorithms, game development and so on. My mission is to develop **clean, well-structured** software that is accessible and valuable to others.
 
 I believe great code should be:
-- Clear – Easy to understand, with thoughtful comments and documentation
-- Modular – Properly abstracted for scalability and reuse
-- User-Friendly – Supported by explanations, examples, and other learning resources
+- Clear - Easy to understand, with thoughtful comments and documentation
+- Modular - Properly abstracted for scalability and reuse
+- User-Friendly - Supported by explanations, examples, and other learning resources
 
 When I encounter complex topics, I break them down into intuitive explanations supplemented with various materials like youtube video links, documentation and learning websites. My focus is on core functionality without unnecessary clutter, ensuring maintainability and efficiency.
 
