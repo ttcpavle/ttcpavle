@@ -1,5 +1,5 @@
 # About Me:
-I am an IT and Management student with a passion for various fields such as data science, AI, algorithms, game development and so on. My mission is to develop **clean, well-structured** software that is accessible and valuable to others.
+I am an IT and Management student with a passion for various fields such as optimization, data science, AI, algorithms, game development and so on. My mission is to develop **clean, well-structured** software that is accessible and valuable to others.
 
 I believe great code should be:
 - Clear - Easy to understand, with thoughtful comments and documentation
